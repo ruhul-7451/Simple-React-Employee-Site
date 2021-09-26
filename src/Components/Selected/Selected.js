@@ -13,10 +13,10 @@ const Selected = (props) => {
 
     return (
         <div className="p-3 shadow bg-light h-100 ms-2">
-            <h5 className="text-center text-primary">Employees Selected</h5> <hr className="mx-auto" />
-            <p className="fw-bold">Employees Assigned: {props.selected.length}</p>
-            <p> <span className="fw-bold">Employee Names:</span> {names}</p>
-            <p className="fw-bold fs-5 text-danger">Total Payable: {totalCharges}$</p>
+            <h2 className="text-center text-primary">Employees Selected</h2> <hr className="mx-auto" />
+            <p className="fw-bold fs-5">Employees Assigned: {props.selected.length}</p>
+            <p> <span className="fw-bold fs-5">Employee Names:</span> {names}</p>
+            <p className="fw-bold fs-5 text-danger text-center border">Total Payable: {totalCharges}$</p>
         </div>
     );
 };

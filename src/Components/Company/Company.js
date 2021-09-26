@@ -19,7 +19,7 @@ const Company = () => {
     }
 
     return (
-        <div className='container company-container p-0'>
+        <div className='container company-container p-0 mb-3'>
             <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
                 {
                     company.map(employee => <Employee
