@@ -16,7 +16,7 @@ Nitro Solutions - site shows the employees working with the organization and whe
 * Section-Total-Payable: This section show the total charges that project manager will have to pay to the team as there is individual team members has their own charges rate in usd.
 * Button-Profile:(Under Construction) This button will show the profile of the employee that how many task has he/she completed and the realted projects, running tasks and other officail details one employee carries as a profile.
 * Button-Build Team:(Under Construction) This button confirms the team members assigned and send project details to the team members with nessecery files, notes etc.
-* Button-ReSubmit:(Under Construction) This button will use to update the team members, if the project manager thinks making and update will effect positive to the project.
+* Button-ReSubmit: Temporally its reload the page.(Under Construction) This button will use to update the team members, if the project manager thinks making and update will effect positive to the project.
 
 Under Constructions: This items still not activated as described but soon this will be upgraded to the final version with lots of more effecient team management options and activities.
 

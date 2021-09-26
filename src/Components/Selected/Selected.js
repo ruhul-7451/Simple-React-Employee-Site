@@ -22,7 +22,7 @@ const Selected = (props) => {
             <p className="fw-bold fs-5 text-danger text-center border">Total Payable: ${totalCharges}</p>
             <div className='d-flex justify-content-between'>
                 <button className="btn btn-success">{build_team} Build Team</button>
-                <button className="btn btn-dark">{rebuild_team} Re-Submit</button>
+                <button className="btn btn-dark" onClick={() => window.location.reload(false)}>{rebuild_team} Re-Submit</button>
             </div>
         </div>
     );
