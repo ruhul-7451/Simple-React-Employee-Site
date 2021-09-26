@@ -1,8 +1,9 @@
-import './Employee.css';
 import React from 'react';
+import './Employee.css';
 
 const Employee = (props) => {
     const { name, age, designation, image, job_id, project_charge } = props;
+
     return (
         <div>
             <div className="col">
@@ -16,7 +17,7 @@ const Employee = (props) => {
                         <h5 className="card-title">Project Charge: {project_charge}<span className="text-secondary">$</span></h5>
                     </div>
                     <div className="card-footer">
-                        <button className="btn btn-warning">Selected</button>
+                        <button onClick={() => props.handleSelectedEmployee(props)} className="btn btn-warning">Selected</button>
                     </div>
                 </div>
             </div>

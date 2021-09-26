@@ -2,30 +2,30 @@
     {
         "job_id": 101,
         "name": "Md. Ruhul Amin Khan",
-        "designation": "Software architect",
-        "image": "https://www.neilsonreeves.co.uk/wp-content/uploads/Corporate-headshot-pure-white-bg-11.jpg",
+        "designation": "Jr. Software Engineer",
+        "image": "https://www.neilsonreeves.co.uk/wp-content/uploads/Corporate-headshots-studio-91-team-1.jpg",
         "age": 25,
-        "project_charge": 45000
+        "project_charge": 35000
     },
     {
         "job_id": 102,
         "name": "Md. Ashik",
         "designation": "Intern",
-        "image": "https://www.neilsonreeves.co.uk/wp-content/uploads/Corporate-Headshot-grey-background-colour-graded.jpg",
+        "image": "https://www.neilsonreeves.co.uk/wp-content/uploads/Corporate-headshots-studio-91-team-2.jpg",
         "age": 24,
         "project_charge": 15000
     },
     {
         "job_id": 103,
-        "name": "Sabbir Ashik",
+        "name": "Shohail Shushom",
         "designation": "Technical Writer",
-        "image": "https://www.neilsonreeves.co.uk/wp-content/uploads/Corporate-headshot-speckled-grey-1.jpg",
+        "image": "https://www.neilsonreeves.co.uk/wp-content/uploads/Corporate-headshots-studio-91-team-3.jpg",
         "age": 26,
         "project_charge": 19000
     },
     {
         "job_id": 104,
-        "name": "Mr. Robin",
+        "name": "Mr. Robin Hood",
         "designation": "Sr. Developer",
         "image": "https://www.neilsonreeves.co.uk/wp-content/uploads/Corporate-headshot-speckled-grey-3.jpg",
         "age": 32,
@@ -43,14 +43,14 @@
         "job_id": 106,
         "name": "Abdullah Al Mamun",
         "designation": "Trainee engineer",
-        "image": "https://www.neilsonreeves.co.uk/wp-content/uploads/Corporate-headshot-2-1.jpg",
+        "image": "https://www.neilsonreeves.co.uk/wp-content/uploads/Corporate-headshot-speckled-grey-1.jpg",
         "age": 24,
         "project_charge": 21000
     },
     {
         "job_id": 107,
         "name": "Boddudawaza Ashik",
-        "designation": "Jr. Developer",
+        "designation": "Jr. Data Scientist",
         "image": "https://www.neilsonreeves.co.uk/wp-content/uploads/Corporate-headshot-3-1.jpg",
         "age": 26,
         "project_charge": 25000
@@ -61,7 +61,7 @@
         "designation": "Software engineer",
         "image": "https://www.neilsonreeves.co.uk/wp-content/uploads/Corporate-headshot-4-1.jpg",
         "age": 25,
-        "project_charge": 29000
+        "project_charge": 31000
     },
     {
         "job_id": 109,
