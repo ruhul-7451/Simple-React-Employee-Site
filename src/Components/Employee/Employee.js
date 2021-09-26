@@ -1,5 +1,9 @@
 import React from 'react';
 import './Employee.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faUserPlus } from '@fortawesome/free-solid-svg-icons'
+
+const select_element = <FontAwesomeIcon icon={faUserPlus} />
 
 const Employee = (props) => {
     const { name, age, designation, image, job_id, project_charge } = props;
@@ -17,7 +21,7 @@ const Employee = (props) => {
                         <h5 className="card-title">Project Charge: {project_charge}<span className="text-secondary">$</span></h5>
                     </div>
                     <div className="card-footer">
-                        <button onClick={() => props.handleSelectedEmployee(props)} className="btn btn-warning">Selected</button>
+                        <button onClick={() => props.handleSelectedEmployee(props)} className="btn btn-warning">{select_element} Selected</button>
                     </div>
                 </div>
             </div>
