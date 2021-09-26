@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# Nitro Solution
+An entrepreneur team to build efficient and great user experience websites.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Live Site Link
 
 In the project directory, you can run:
 
